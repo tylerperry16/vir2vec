@@ -9,12 +9,12 @@ import pickle
 #euk == eukaryotic, prok == prokaryotic, arch = archael, phage == phage, vir == virus
 
 #phage_prok produces very large file
-files = ["phage_euk",
-         "phage_prok",
-         "phage_arch",
-         "vir_euk",
-         "vir_prok",
-         "vir_arch"]
+files = ["phage_euk_dr100",
+         "phage_prok_dr100",
+         "phage_arch_dr100",
+         "vir_euk_dr100",
+         "vir_prok_dr100",
+         "vir_arch_dr100"]
 
 
 # %%
