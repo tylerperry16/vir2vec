@@ -2,4 +2,8 @@
 *ipynb
 .ipynb_checkpoints
 *p
-
+*pth
+*csv
+*faa
+*png
+*_model_*
